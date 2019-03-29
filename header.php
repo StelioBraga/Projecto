@@ -10,7 +10,6 @@
     <script src="Semantic-UI-CSS-master/semantic.min.js"></script>
 </head>
 <body>
-   <div class="ui top attached button">Button before grid</div>
   <div class="ui grid">
     <div class="sixteen wide column">
         <div class="ui teal inverted segment" style="border-radius: 0;">
