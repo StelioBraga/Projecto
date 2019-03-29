@@ -1,7 +1,10 @@
 <?php require_once("header.php") ?>
+<?php require_once ("painel-header-usuario.php")?>
 
 
 
+<div class="ui bottom attached tab segment" data-tab="first">
+ 
 <div class="ui container very padded segment active" style="padding-bottom: 20px; ">
   
   <form class="ui  form" >
@@ -40,3 +43,6 @@
   </form>
 
 </div>
+
+</div>
+
