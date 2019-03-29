@@ -6,13 +6,14 @@
     <title>Page Title</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" media="screen" href="Semantic-UI-CSS-master/semantic.min.css">
-    <script src="main.js"></script>
+    <link rel="stylesheet" type="text/css" media="screen" href="css/styles.css">
+    <script src="Semantic-UI-CSS-master/semantic.min.js"></script>
 </head>
 <body>
    <div class="ui top attached button">Button before grid</div>
   <div class="ui grid">
     <div class="sixteen wide column">
-        <div class="ui teal inverted segment" style="margin-left:">
+        <div class="ui teal inverted segment" style="border-radius: 0;">
             <div class="ui inverted  centered grid secondary  menu   ">
                 <div class="fitted item">
                 Share doc UMUM
@@ -44,3 +45,5 @@
           </div>
     </div>
 </div>
+
+<div  class="container">

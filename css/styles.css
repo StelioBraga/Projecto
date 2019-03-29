@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "Montserrat-default";
+    src: url("../fonts/Montserrat-Medium.ttf");
+}
+*{
+    font-family: "Montserrat-default";
+}
+/*Top Header*/
+.ui.teal.inverted.segment {
+    border-radius: 0;
+}
+.container{
+    margin: 2% 10% 5% 1%;
+}
+/*Curso*/
+form.ui.form.curso {
+    margin: 0 5%;
+}
